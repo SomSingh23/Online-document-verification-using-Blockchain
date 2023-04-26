@@ -1,0 +1,9 @@
+The online document verification using blockchain project is designed to provide a secure and reliable way to verify and authenticate documents online. With the rise of digital documents and the need for secure verification, this project aims to utilize the blockchain technology to create a decentralized system that ensures the authenticity of documents.
+
+The project will involve the creation of a blockchain network where all documents will be stored in encrypted form. Each document will have a unique digital signature, which will be recorded on the blockchain ledger. This digital signature will be generated using cryptographic algorithms, making it impossible for anyone to tamper with the document without detection.
+
+To verify a document, the user will simply need to enter the document's unique ID on the blockchain network. The system will then retrieve the document and its digital signature from the blockchain ledger, and compare it with the digital signature of the original document. If the two signatures match, the document will be verified as authentic.
+
+One of the key advantages of this project is that it eliminates the need for a centralized authority to verify documents, making the process more secure and efficient. Additionally, the decentralized nature of the blockchain network ensures that documents cannot be tampered with or deleted, providing a high level of data integrity.
+
+Overall, this project has the potential to revolutionize the way we verify and authenticate documents online, providing a secure and reliable solution that can be used across a range of industries and applications.
